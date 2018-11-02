@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## My Notes
+
+Install node and npm on system.
+
+Use npm to install create-react-app command.
+
+Run create-react-app my-app to create a React-read app.
+
+Create index.js in /src and import React and ReactDOM to get started.
+
 ## Available Scripts
 
 In the project directory, you can run:
